@@ -68,7 +68,6 @@ many tools, so you should be familiar with use of the command line:
   <p>
 <b>The course grade will be based on:</b>
   <ul>
-    <li>Item Weight</li>
 <li>Homework assignments 20%</li>
 <li>Quizzes 15%</li>
 <li>Worksheets 5%</li>
